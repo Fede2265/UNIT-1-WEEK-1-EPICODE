@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,400;1,600&display=swap');
+
+html,
+body {font-family: 'Raleway', sans-serif;
+background-color: #faffff;
+font-size: 1.2em;
+}
+
+/* HEADER */
+
+header {background-color: #00a0c6;
+text-align: center;
+border-bottom: 4px solid #027794;
+text-transform: uppercase;
+line-height: 2em;
+}
+
+header h1 {color: #faffff;
+font-size: 2rem;
+font-weight: lighter;
+}
+
+header h2 {margin-top: 20px;
+margin-bottom: 20px;
+font-weight: lighter;
+}
+
+span {background-color: #faffff;
+color: #00a0c6;
+}
+
+
+
+
+/* MAIN */
+
+
+main {margin: 35px;
+}
+
+figure {text-align: center;
+}
+
+
+
+figure img {border: 1px solid rgb(216, 214, 214);
+padding: 5px;
+
+}
+
+main h2 {color: #027794;
+text-align: center;
+font-size: 2rem;
+text-transform: uppercase;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+figcaption {margin-top: 5px;
+margin-bottom: 15px;
+}
+
+#me {margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+
+p + blockquote {background-color: #e3e3e3;
+border-radius: 20px;
+width: 46vh;
+height: 20vw;
+padding: 10px;
+margin-bottom: 30px;
+}
+
+
+a:link, a:visited {font-weight: bold;
+color: #ce6054;
+text-decoration: none;
+}
+
+a:hover {font-weight: bold;
+color: red;
+text-decoration: underline;
+}
+
+strong {color: #027794;}
+
+hr {border: 1px dashed darkgray;
+}
+
+h3 {font-weight: bold;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+mark {background-color: #027794;
+color: white;
+}
+
+p {margin-bottom: 10px;
+
+}
+
+ul {margin-left: 50px;
+
+}
+
+dd {margin-left: 50px;}
+
+
+
+/* FOOTER */
+
+
+footer {background-color: #353535;
+border-top: 4px solid #00a0c6;
+text-align: center;
+color: #faffff;
+font-size: 1rem;
+
+}
+
+
+small {color: #999999;}
+
+
+p {margin-top: 10px;
+margin-bottom: 10px;}
+
+kbd {color: #ffff00;
+font-weight: bold;
+font-style: italic;        
+}
+
+
+
+
